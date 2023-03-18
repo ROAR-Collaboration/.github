@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This repo is to organize the projects and subteams for Berkeley's [106/206B](https://ucb-ee106.github.io/106b-sp23site/) collaboration
+
+
 <!--
 
 **Here are some ideas to get you started:**

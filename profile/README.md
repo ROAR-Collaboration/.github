@@ -7,7 +7,7 @@ The four project groups are as follows:
 - [group1-tracker](https://github.com/ROAR-Collaboration/group1-tracker)
 - [group2-controls](https://github.com/ROAR-Collaboration/group2-controls)
 - [group3-SLAM](https://github.com/ROAR-Collaboration/group3-SLAM)
-- [group4-plannine](https://github.com/ROAR-Collaboration/group4-planning)
+- [group4-planning](https://github.com/ROAR-Collaboration/group4-planning)
 
 In each repo you should find getting started docs and instructions on how to spin up and interact with a ROS bag from the actual Indy Race. The repos are decoupled code for your individual projects, if you encounter issues please let us know, or use the discord to reach out to the team for help. 
 

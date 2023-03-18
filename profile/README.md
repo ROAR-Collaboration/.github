@@ -13,9 +13,11 @@ In each repo you should find getting started docs and instructions on how to spi
 
 If requested some students should additionally have access to the [AI Racing Tech Repo](https://github.com/airacingtech) 
 
-This repo contains the full race stack. There is a current [tutorial video](https://ai-racing-tech-race-docs.readthedocs-hosted.com/en/latest/docs/getting_started/run_on_ossdc.html) to spin up and use an open source OSDCC/LGSVL hacked simulator. Note this requires access to a 3080/3090 GPU. There is a lab computer in Cory for shared use. 
+This repo contains the full race stack. There is a current [tutorial video](https://ai-racing-tech-race-docs.readthedocs-hosted.com/en/latest/docs/getting_started/run_on_ossdc.html) to spin up and use an open source [OSDCC/LGSVL](https://github.com/OSSDC/OSSDC-SIM) hacked simulator. Please use the links from the docs for our custom config install. 
 
-We are additionally in the process of securing some distributed AWS access to allow students to run their ROS code locally and interact with the Simulator as an AWS instance for testing purposes. 
+The ART stack requires 16GB+ (ideally 32GB) of RAM to spin up and the OSDCC/LGSVL Simulation requires at minimum a Graphics Card with the performance of a NVIDIA GeForce RTX 3080 Ti.  
+
+There is currently a Lab computer available for use. We are additionally in the process of securing some distributed AWS access to allow students to run their ROS code locally and interact with the Simulator as an AWS instance for testing purposes. 
 
 
 <!--
